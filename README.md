@@ -55,26 +55,25 @@ If you want to see the code that I used for data cleaning, you can check it [her
 
 Looking at the **Natural Gas Output** trend, we can observe a steady decline since 2015. In contrast, **Manufacturing Output** and **GDP** have shown an increasing trend over the same period. As a result, the gap between these two (manufacturing output and GDP) and natural gas output has widened over time.  
 
-This decline and the concurrent increase in these sectors appear to align with two important policy changes.
+This drop and the simultaneous growth in these sectors seem to match up with two key policy changes.
 
 1. **2016 - Presidential Decree Number 40/2016**:  
    - Natural gas pricing adjustments were set by the **Minister of Energy and Mineral Resources (ESDM)** in coordination with other relevant ministers.  
    - Focused on economic feasibility for industries using natural gas and ensuring availability.
 
-
 2. **2020 - Presidential Decree Number 121/2020**:  
    - The **President** directly led the decision-making process, expanding **HGBT (Harga Gas Bumi Tertentu)** eligibility to include: Fertilizer, petrochemical, oleochemical, steel, ceramic, glass, rubber gloves, and **electricity providers for public interest** 
    - Economic focus shifted toward **increasing the added value of industries** by utilizing natural gas.  
    - Pricing mechanisms expanded to include both **contractor prices** and **distribution tariffs**.  
- 
 
 The timing of these policies seems to match the downward trend in natural gas output. It might be worth exploring how these decisions impacted production levels.
 
+### So,
 ***We wanted to see if these policies actually influenced Indonesia's natural gas output, manufacturing, and GDP growth.***
 
 ## **Statistical Analysis**
 
-Using the **OLS regression model**, I fit the data to determine how these economic variables and the policy introduction relate to natural gas production changes over time. This statistical approach offers insights into whether trends in manufacturing, GDP, and the implementation of the pricing policy impacted the production levels of natural gas.
+Using the **OLS regression model**, I *fit* the data to see how economic factors—Indonesia's natural gas output, manufacturing, and GDP growth—and the new policy are connected to changes in natural gas production over time. This method helps understand if trends like manufacturing growth, GDP changes, and the introduction of the pricing policy influenced natural gas production levels.
 
 ### ***Code for Initial Regression Model:***
 
@@ -282,10 +281,10 @@ The trends point to a clear trade-off:
 1. GDP and Manufacturing Output Show Robust Growth Post-policy:
     - The policy reforms had a direct, positive impact on economic activity, particularly in manufacturing.
 
-2. The decline in natural gas production aligns with trends in supply-side economics. When prices for natural gas are low, producers may cut back on supply to avoid operating at a los (Mason & Roberts, 2018; Islam et al., 2024) 
+2. The decline in natural gas production aligns with trends in supply-side economics. When prices for natural gas are low, producers may cut back on supply to avoid operating at a lost (Mason & Roberts, 2018; Islam et al., 2024) 
 
 
-# Conclusion 2.0
+# **Conclusion 2.0**
 
 ## ***Model Limitations & Introduction to CGE as an Advanced Alternative***
 
