@@ -364,8 +364,24 @@ Thank you for engaging with this project—it's been a meaningful exploration in
 
 ## REFERENCES
 
-[Prasetyawati, I., & Hartono, D. The Impact of Certain Price of Natural Gas Policy on Indonesia’s Economy. Jurnal Ekonomi Pembangunan: Kajian Masalah Ekonomi dan Pembangunan, 24(1), 112-128.](https://journals.ums.ac.id/index.php/JEP/article/view/21544)
+[Fattouh, B., & El-Katiri, L. (2012). Energy and Arab economic development (p. 9). United Nations Development Programme, Regional Bureau for Arab States.](https://eprints.soas.ac.uk/14746/)
+
+[Goncharuk, A. G. (2015). Industrial development under the pressure of high natural gas prices: a case of Ukraine. Rynek Energii, (3), 126-130.](https://www.infona.pl/resource/bwmeta1.element.baztech-c95de5b8-e207-4051-b3ed-a0b00ec64399)
+
+[Hendrawaty, E., Kesumah, F. S. D., & Wisnu, F. K. (2020). Future natural gas price forecasting model and its policy implication. International Journal of Energy Economics and Policy, 10(5), 1-7.](http://repository.lppm.unila.ac.id/23168/)
+
+[He, Y., & Lin, B. (2017). The impact of natural gas price control in China: A computable general equilibrium approach. Energy Policy, 107, 524-531.](https://www.sciencedirect.com/science/article/pii/S0301421517302999?casa_token=5wxR4vb7J9YAAAAA:vKwBKOtO5ElzxxW3U4HuYnC8B1XbmZU3i3ch7D2_PvCvaiRrw4Gx5WDfTvD7365uIFkPogF94Fo)
 
 [Islam, M. S., Ahmed, F., Islam, M. M., Rehman, A. U., & Alam, M. F. (2024). The Impact of Oil Price Shocks on Oil and Gas Production Amidst Geopolitical Risk in OPEC: Insights from Method of Moments Quantile Regression. Journal of the Knowledge Economy, 1-30.](https://link.springer.com/article/10.1007/s13132-024-02296-y)
 
+[Lin, B., & Li, Z. (2021). Does natural gas pricing reform establish an effective mechanism in China: A policy evaluation perspective. Applied Energy, 282, 116205.](https://www.sciencedirect.com/science/article/pii/S0306261920316032?casa_token=OkKTAzvkea8AAAAA:JJLjGO68fdyCUx3e0LfIICTeLCC9beN1dk6wxsEQBnRiTaB10vL41KhAUBeewJM-d9F-g7yAZvs)
+
 [Mason, C. F., & Roberts, G. (2018). Price elasticity of supply and productivity: an analysis of natural gas wells in Wyoming. The Energy Journal, 39(1_suppl), 79-100.](https://journals.sagepub.com/doi/abs/10.5547/01956574.39.SI1.cmas)
+
+[Nugroho, A., & Amir, H. (2018). Analisis Dampak Insentif Fiskal Penetapan Harga Gas Bagi Industri Domestik Terhadap Perekonomian: Pendekatan Model CGE Dinamis. Kajian Ekonomi dan Keuangan, 2(1), 39-51.](https://www.researchgate.net/profile/Hidayat-Amir-2/publication/329622750_Analisis_Dampak_Insentif_Fiskal_Penetapan_Harga_Gas_Bagi_Industri_Domestik_Terhadap_Perekonomian_Pendekatan_Model_CGE_Dinamis/links/5d40d10c299bf1995b593651/Analisis-Dampak-Insentif-Fiskal-Penetapan-Harga-Gas-Bagi-Industri-Domestik-Terhadap-Perekonomian-Pendekatan-Model-CGE-Dinamis.pdf?_sg%5B0%5D=started_experiment_milestone&origin=journalDetail&_rtd=e30%3D)
+
+[Orlov, A. (2015). An assessment of optimal gas pricing in Russia: A CGE approach. Energy Economics, 49, 492-506.](https://www.sciencedirect.com/science/article/pii/S014098831500105X?casa_token=43sYMtEDUTIAAAAA:UzzKyFEAgLa2hz9nXSzNRXtefh7iBU_hxGn30ytftzx_kVVx_lQfQ_5-cy_qL9EpxjDueh-Lvzk)
+
+[Prasetyawati, I., & Hartono, D. The Impact of Certain Price of Natural Gas Policy on Indonesia’s Economy. Jurnal Ekonomi Pembangunan: Kajian Masalah Ekonomi dan Pembangunan, 24(1), 112-128.](https://journals.ums.ac.id/index.php/JEP/article/view/21544)
+
+[Wang, T., & Lin, B. (2014). China's natural gas consumption and subsidies—From a sector perspective. Energy Policy, 65, 541-551.](https://www.sciencedirect.com/science/article/pii/S0301421513010884?casa_token=JoXeCU7UCAYAAAAA:j31gUx4PpuqJ_yQTYt_ZI2GQAdNDfxYZ6zR61ylttJnQ83C9Ki8AU0ABfuPo8x0l6firiuwYhb8)
