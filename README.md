@@ -45,7 +45,7 @@ The following datasets form the foundation of this analysis:
 
 These datasets were cleaned, merged, and analyzed with statistical methods to uncover relationships and trends.
 
-If you want to see the full code that I used for both data cleaning and data analysis, you can check it [here]((https://github.com/adinramaadin/Python_Project-1_ESDM/tree/main/Python_Code)).
+If you want to see the full code that I used for both data cleaning and data analysis, you can check it [here](https://github.com/adinramaadin/Python_Project-1_ESDM/tree/main/Python_Code).
 
 ## 📊 **Key Findings**  
 
