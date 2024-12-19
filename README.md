@@ -14,7 +14,7 @@ How has implementing the **Certain Price of Natural Gas Policy** impacted Indone
 
 1. Look at the trends in natural gas production, manufacturing output, and GDP over time.
 2. See if cheaper natural gas has contributed to economic improvements or changes in production patterns. 
-3. Address the limitations of this study compared to the **Indonesian Inter-Regional Static Comparative General Equilibrium (CGE)** model.
+3. Address the limitations of this study/project compared to the **Indonesian Inter-Regional Static Comparative General Equilibrium (CGE)** model.
 
 ### **Methodology**
 
@@ -23,7 +23,7 @@ How has implementing the **Certain Price of Natural Gas Policy** impacted Indone
  
  
 - **Limitations**:   
-  - This analysis oes **NOT** use advanced simulation models due to data and resource constraints. Instead, the findings rely on regression statistics and trend analysis.  
+  - This analysis does **NOT** use advanced simulation models due to data and resource constraints. Instead, the findings rely on regression statistics and trend analysis.  
 
 
 ### 🛠️ **Tech Stack**
